@@ -1,0 +1,2 @@
+# ashokgit
+my first repository
